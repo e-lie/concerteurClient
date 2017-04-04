@@ -2,6 +2,7 @@
 
 from urllib import request, parse
 import json
+import os
 
 SERVER_URL = os.environ['SERVER_URL']
 
