@@ -1,0 +1,6 @@
+appdirs==1.4.3
+packaging==16.8
+parse==1.8.0
+pydub==0.18.0
+pyparsing==2.2.0
+six==1.10.0
